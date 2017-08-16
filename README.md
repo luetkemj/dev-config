@@ -6,8 +6,8 @@ https://github.com/robbyrussell/oh-my-zsh
 ## Editor: Atom
 https://atom.io/
 
-install config:
-* https://stackoverflow.com/questions/30006827/how-to-save-atom-editor-config-and-list-of-packages-installed
+* settings backed up with https://atom.io/packages/sync-settings
+* follow install instructions and run backup
 
 ## Terminal: Hyper
 
